@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txApp" type="id" />
+    <item name="cvAdd" type="id" />
+    <item name="cvAdd1" type="id" />
+    <item name="cvAdd2" type="id" />
+    <item name="cvAdd3" type="id" />
+    <item name="cvAdd4" type="id" />
+    <item name="cvAdd5" type="id" />
+</resources>
